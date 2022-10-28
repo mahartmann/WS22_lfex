@@ -7,6 +7,8 @@ Instructor: Mareike Hartmann (mareikeh@lst.uni-saarland.de) \
 Meetings: Wednesdays 10:15 - 11:45,  C7.3 Room 1.12 \
 Office Hours: by appointment 
 
+***Please sign up for the [MS team](https://teams.microsoft.com/l/team/19%3axCbXw42tVNfgn3N7icGdynXwXj8C84wY2N4lb5rKJRs1%40thread.tacv2/conversations?groupId=62017be1-3c7e-4051-b5ee-14808264a400&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f)***
+
 Training NLP models with access to human explanations, i.e. information about why an instance is assigned a specific label, can improve data efficiency and model performance on in- and out-of-domain data compared to learning from label-level supervision alone. Adding to these empirical findings, similarity with the process of human learning makes learning from explanations a promising way to establish a fruitful human-machine interaction. Several methods for integrating explanation information into the learning process have been proposed, which rely on different types of explanations, e.g. natural language statements or word-level annotations, and different mechanisms for integrating explanation information into the learning process. In this seminar, we will discuss how to improve NLP models by learning from human explanations, covering different methods for learning from human explanations. In addition, we will discuss recent works investigating in which conditions explanation information is beneficial, and how the nature of human explanations can be characterized.
 
 **Prerequisites:** Background in deep learning and natural language processing is required.
